@@ -1,0 +1,41 @@
+
+body{
+    font-family: sans-serif;
+}
+.top-container{
+    text-align: center;
+}
+.heading-h1{
+    font-size: 4rem;
+}
+
+h2{
+    text-align: center;
+    font-weight: lighter;
+    font-size: 2.5rem;
+}
+ol, ul{
+    font-family: "American Typewriter";
+    font-size: 1.75rem;
+}
+
+hr{
+    border-style: dotted none none none;
+    height: 0px;
+    border-width: 10px;
+    border-color: #000;
+    width: 25%;
+    padding-bottom: 19px;
+    margin: 0;
+    margin: auto;
+}
+hr:hover{
+    border-style: dotted none ;
+    height: 0px;
+    border-width: 10px;
+    border-color: red;
+    width: 25%;
+    padding-bottom: 19px;
+    margin: 0;
+    margin: auto;
+}
